@@ -22,11 +22,14 @@ This might become a template for future years (and I'd suggest that it does so),
 - [ ] Lock down site and dates. Need to coordinate with Typelevel.
 - [ ] Open ticket sales. Reserve some tickets for speakers / diversity / sponsors.
 - [ ] Open RFCs. (Possibly sequentially, possibly in parallel; work with Typelevel on this.)
+- [ ] Begin to coordinate with ScalaBridge, to see about some subsidized tickets aimed that way.
 
 # October
 
 - [ ] Close RFCs.
 - [ ] Start to figure out catering, parties, etc.
+- [ ] Start to figure out videography.
+- [ ] Start to figure out internet access, if that doesn't simply come with the site.
 
 # November
 
