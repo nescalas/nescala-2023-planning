@@ -3,6 +3,8 @@ Issues and documents specific to Boston in 2021
 
 **Important:** this is a public repo, visible to the world. We don't have a ton of secret information, but anything of the sort absolutely does not belong here! Serious secrets (especially credentials and double-especially the bank and legal credentials) should be shared only via LastPass.
 
+The [Master Checklist](master-checklist.md) is a high-level overview of the schedule for the year. Specific items should become Issues in this repo.
+
 We have a number of other resources, including:
 
 - [Repo for the NE Scala website](https://github.com/nescalas/nescalas.github.io)
