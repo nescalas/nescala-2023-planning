@@ -16,6 +16,7 @@ This might become a template for future years (and I'd suggest that it does so),
 - [ ] Keep talking up the organization locally, and look for more committee. *Ideal* size is 10-12, although that's ambitious.
 - [ ] Begin monthly calls for the entire concom.
 - [ ] Draft initial budget. Note that this depends *enormously* on sponsors, so create conservative, loose and mid-line versions.
+- [ ] Stand up initial website, with the outline of what will be released when.
 
 ## September
 
