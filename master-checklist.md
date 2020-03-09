@@ -17,6 +17,7 @@ This might become a template for future years (and I'd suggest that it does so),
 - [ ] Begin monthly calls for the entire concom.
 - [ ] Draft initial budget. Note that this depends *enormously* on sponsors, so create conservative, loose and mid-line versions.
 - [ ] Stand up initial website, with the outline of what will be released when.
+- [ ] If the main site isn't suitable for the Unconference, look for an Unconference space.
 
 ## September
 
@@ -40,10 +41,16 @@ This might become a template for future years (and I'd suggest that it does so),
 
 - [ ] Get serious about enrolling sponsors. Try to have all sponsors lined up by early February.
 - [ ] Gather sponsor logos for website and t-shirts. (Note that monochrome versions are best for t-shirts, if relevant.) Needs to be done before we order t-shirts.
+- [ ] Finalize contracts (as needed) for:
+  - [ ] Catering
+  - [ ] Parties
+  - [ ] Videography
+  - [ ] Internet
 
 ## February
 
 - [ ] Design and order t-shirts by one month out. (To avoid rush surcharges.)
+- [ ] Check projectors *and adapters* for the Unconference. We've occasionally been bitten by discovering that we didn't have ways to connect folks' laptops to the projects. 
 
 ## March
 
