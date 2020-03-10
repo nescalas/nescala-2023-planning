@@ -12,6 +12,7 @@ This might become a template for future years (and I'd suggest that it does so),
 
 ## June - August
 
+- [ ] Set up at least an email alias, maybe a GSuite account, for the core concom, so that we have a single public email address that goes to the team.
 - [ ] Begin sounding out sponsors. Not looking for any commitments yet, but touch base and start to figure out who is plausible and what the contacts are at each company.
 - [ ] Keep talking up the organization locally, and look for more committee. *Ideal* size is 10-12, although that's ambitious.
 - [ ] Begin monthly calls for the entire concom.
