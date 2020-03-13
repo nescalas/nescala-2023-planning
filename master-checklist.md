@@ -4,6 +4,10 @@ This schedule is *not* hard-and-fast, and we'll undoubtedly slip some dates. Tha
 
 This might become a template for future years (and I'd suggest that it does so), but that's up to the organizing committee for each year.
 
+## March
+
+- [ ] Debrief both the organizers and attendees. What worked? What didn't? What might we do better next year? (Aside from trying to not have an active plague.)
+
 ## April - May
 
 - [ ] Recruit initial members of the *local* team. (Goal: at least six people who are willing to consider themselves involved.)
@@ -12,6 +16,7 @@ This might become a template for future years (and I'd suggest that it does so),
 
 ## June - August
 
+- [ ] Start thinking seriously about how to run a truly multi-modal conference, with some people attending in person and some online. Do we want different price tiers, with a really inexpensive online membership?
 - [ ] Set up at least an email alias, maybe a GSuite account, for the core concom, so that we have a single public email address that goes to the team.
 - [ ] Begin sounding out sponsors. Not looking for any commitments yet, but touch base and start to figure out who is plausible and what the contacts are at each company.
 - [ ] Keep talking up the organization locally, and look for more committee. *Ideal* size is 10-12, although that's ambitious.
@@ -25,7 +30,7 @@ This might become a template for future years (and I'd suggest that it does so),
 - [ ] Lock down site and dates. Need to coordinate with Typelevel.
 - [ ] Open ticket sales. Reserve some tickets for speakers / diversity / sponsors.
 - [ ] Open RFCs. (Possibly sequentially, possibly in parallel; work with Typelevel on this.)
-- [ ] Begin to coordinate with ScalaBridge, to see about some subsidized tickets aimed that way.
+- [ ] Begin to coordinate seriously with ScalaBridge, to see about some subsidized tickets aimed that way.
 
 # October
 
